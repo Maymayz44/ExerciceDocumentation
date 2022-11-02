@@ -1,6 +1,9 @@
 <a name='assembly'></a>
 # ExerciceDocumentation
 
+## Prérequis
+* [Visual Studio](https://visualstudio.microsoft.com/vs/)
+
 ## Contents
 
 - [Rectangle](#T-ExerciceDocumentation-Rectangle 'ExerciceDocumentation.Rectangle')
