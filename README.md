@@ -11,4 +11,4 @@
 
 ## Documentation
 
-* [ExerciceDocumentation](ExerciceDocumentation/ExerciceDocumentation/ExerciceDocumentation/readme.md)
+* [ExerciceDocumentation](ExerciceDocumentation/ExerciceDocumentation/readme.md)
