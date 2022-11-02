@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExerciceDocumentation</name>
+    </assembly>
+    <members>
+        <member name="M:ExerciceDocumentation.Rectangle.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Crée l'objet et définit ses paramètres
+            </summary>
+            <param name="longeur">La longeur du rectangle</param>
+            <param name="hauteur">La hauteur du rectangle</param>
+        </member>
+        <member name="M:ExerciceDocumentation.Rectangle.CalculerAire">
+            <summary>
+            Calcule l'aire du rectangle
+            </summary>
+            <returns>L'aire du rectangle</returns>
+        </member>
+    </members>
+</doc>
